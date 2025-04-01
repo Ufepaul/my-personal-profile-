@@ -20,10 +20,9 @@
 <section>
 <h2>About Me</h2>
 <p>Hello! My name is Ufe, I am an IT specialist and I am passionate about learning and creating. I love connecting with people and exploring new ideas!</p>
-<img src="images/logo.jpg" /> 
+<img src="images/logo.jpg"/>
 </section>
-
-    <s<section>
+    
     <h2>Hobbies</h2>
     <ul>
         <li>Reading</li>
@@ -34,7 +33,7 @@
 
 <footer>
 <p>Contact me via email: <a href="mailto:ufepaul@gmail.com">ufepaul@gmail.com</a></p>
-<p>Follow me on social media: <a href="https://twitter.com/ufe">Twitter</a></p>
+<p>Follow me on social media: <a href="https://twitter.com/@ufepaul">Twitter</a></p>
 </footer>
 </body>
 </html>
