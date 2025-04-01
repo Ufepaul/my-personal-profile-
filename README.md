@@ -20,9 +20,10 @@
 <section>
 <h2>About Me</h2>
 <p>Hello! My name is Ufe, I am an IT specialist and I am passionate about learning and creating. I love connecting with people and exploring new ideas!</p>
-<img src="images/logo.jpg"/>
+<img src="images/logo.jpg" />
 </section>
-    
+
+
     <h2>Hobbies</h2>
     <ul>
         <li>Reading</li>
